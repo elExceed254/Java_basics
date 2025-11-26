@@ -25,5 +25,5 @@ Here are my project output screenshots:
 
 ### About
 
-This repository contains Java source code and output screenshots for three fundamental assignments: basic invoice, sales invoice, and student marksheet — showcasing use of variables, input handling, calculations, formatting, and arrays/lists.
+This repository contains Java source code and output screenshots for three fundamental assignments: basic invoice, sales invoice, and student marksheet — showcasing use of variables, input handling, calculations and formatting.
 
