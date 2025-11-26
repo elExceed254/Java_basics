@@ -5,7 +5,8 @@ Here are my project output screenshots:
 ## 1. Invoice (Basic & Sales)
 
 **Invoice Assignment 1**  
-![Invoice Screenshot 1](images/Invoice1.png)  
+![Invoice Screenshot 1](images/Invoice1.png)
+![Invoice Screenshot 2](images/Invoice2.png)
 
 **Invoice Assignment 2 (Sales)**  
 ![Sales Screenshot 1](images/sales1.jpg)  
